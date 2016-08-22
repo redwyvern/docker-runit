@@ -1,3 +1,8 @@
+![](https://img.shields.io/docker/stars/redwyvern/runit.svg)
+![](https://img.shields.io/docker/pulls/redwyvern/runit.svg)
+![](https://img.shields.io/docker/automated/redwyvern/runit.svg)
+[![](https://images.microbadger.com/badges/image/redwyvern/runit.svg)](https://microbadger.com/images/redwyvern/runit "Get your own image badge on microbadger.com")
+
 This image is based on 'tozd/docker-runit' except that it has been adapted to use and
 work with a Debian base image.
 
